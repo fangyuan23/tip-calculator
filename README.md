@@ -5,3 +5,4 @@ Which required and optional stories have you completed? Only the required story.
 
 GIF walkthrough of all required and optional stories (using LiceCap)
 
+![alt text] file:///Users/michaelellison/Desktop/tipcalcgif.gif "tip calc gif")
